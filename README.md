@@ -23,7 +23,8 @@ This portfolio demonstrates my proficiency in data wrangling, analysis, and visu
 ### 📂 Tableau
 |Project Link   | Area  | Tools | Project Description   |
 |---                |---    |---    |---                    |
-|✈️ [Aircraft Freights](https://public.tableau.com/views/AircraftFreightsinIndia/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  |Data Analysis |Tableau |Developed a dashboard in Tableau for analyzing the volume of freight handled by different airports across states in India.                      |
+|✈️ [Aircraft Freights](https://public.tableau.com/views/AircraftFreightsinIndia/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  |Data Analysis |Tableau | This project details the development of an interactive Tableau dashboard designed to analyze air freight movement across India. This dashboard empowers stakeholders in the logistics and aviation industries to gain critical insights into the nation's air freight landscape.                      |
+|🐄 [India Dairy Sales Analysis](https://github.com/AdityaBagad/Dairy-Sales-Analysis) |Data Analysis |Tableau |Developed an interactive Tableau dashboard to analyze dairy sales trends in India. This dashboard provided key insights for informed decision-making, allowing stakeholders to Track Sales Performance,Identify Regional Trends & Evaluate Sales Channels |
 
 ### 📂 Power BI
 |Project Link   | Area  | Tools | Project Description   |
