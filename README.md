@@ -7,7 +7,7 @@ This portfolio demonstrates my proficiency in data wrangling, analysis, and visu
 - [SQL]()
 - [Tableau]()
 - [Power BI]()
-- [Certifications]()
+<!-- - [Certifications]() -->
 
 ### 📂 Data Engineering / ETL Projects
 |Project Link   | Area  | Tools | Project Description   |
